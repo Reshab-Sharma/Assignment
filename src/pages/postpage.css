@@ -1,0 +1,30 @@
+.user-container{
+    margin:20px;
+    width:100%;
+    height:100vh;
+}
+.user-post{
+    width: 95%;
+    height: 50%;
+    border-radius: 20px;
+
+}
+.h1-user{
+    margin:30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.span-user{
+    margin:30px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin:15px 0px;
+}

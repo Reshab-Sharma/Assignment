@@ -1,0 +1,31 @@
+.paginationbttn{
+    width:90%;
+    height: 40px;
+    list-style:none;
+    display:flex;
+    justify-content: center;
+}
+.paginationbttn a{
+    padding:10px;
+    margin:8px;
+    border-radius: 5px;
+    border:1px solid rgb(28, 187, 250);
+    color:rgb(0, 204, 255);
+    cursor:pointer;
+}
+.paginationbttn a:hover{
+    color:white;
+    background-color:rgb(104, 200, 209); 
+}
+.paginationactive a{
+    color:white;
+    background-color:rgb(104, 200, 209);
+}
+.svg{
+    color: rgb(146, 224, 238);
+    display:flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    height: 270px;
+    
+}
